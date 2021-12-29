@@ -1,0 +1,37 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71,71,71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40%;
+    padding: 0 50px;
+}
+
+.image{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.ingredients-list{
+    font-size: 24px;
+    margin: 4px 0;
+    
+}
+
+ .calories p{
+    font-size: 24px;
+    margin: 4px 0;
+    text-transform: capitalize;
+ }
+
+.see-more{
+    /* text-decoration: none; */
+     font-size: 18px;
+     color:black;
+     margin: 10px 0;
+     font-size: 25px;
+}
